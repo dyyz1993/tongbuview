@@ -1,0 +1,6 @@
+{
+  "name": "Drel · 快捷键编辑器",
+  "description": "100% 像素级还原 Drel 按键编辑器 UI，支持竖屏、横屏、折叠屏及桌面宽屏自适应与实时交互",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
